@@ -1,5 +1,8 @@
 # Edwaks: поиск товарных знаков
 
+> English: [README_EN.md](README_EN.md)
+
+
 > **Чтобы приобрести данный софт обращайтесь по адресу itshumakher@ g m a il.com**
 
 
